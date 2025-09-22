@@ -1,6 +1,5 @@
 ## README.md
 
-```markdown
 # CLI Weather App
 
 A simple Node.js command-line application to fetch and display current weather information for any city using the OpenWeatherMap API.
@@ -64,6 +63,3 @@ Wind Speed  : 3.5 m/s
 ## License
 
 MIT
-```
-
----
