@@ -1,5 +1,3 @@
-## README.md
-
 # CLI Weather App
 
 A simple Node.js command-line application to fetch and display current weather information for any city using the OpenWeatherMap API.
